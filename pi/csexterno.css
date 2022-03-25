@@ -1,0 +1,41 @@
+.class-a{
+    background-color: blue;
+    height: 50%;
+
+
+}
+.class.d{
+    background-color: red; 
+    width: 75%; 
+    height: 25%;
+}
+
+class.b{
+    background-color: #FF7F00 ; 
+    width: 500px; 
+    height: 500px;
+
+}
+
+class.c{
+    background-color: #0cf50c; 
+    width: 250px; 
+    height: 250px;
+
+
+}
+
+class.c2{
+    background-color: rgb(255, 0, 0);
+    color:  white;  
+    font-size: 25px; 
+    font-family: monospace;
+
+}
+
+.negri{
+font-weight: bold;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+
+}
